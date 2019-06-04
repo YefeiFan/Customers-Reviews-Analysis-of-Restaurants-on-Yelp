@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-Customers-Reviews-on-Restaurants
+# Customers-Reviews-Analysis-of-Restaurants-on-Yelp
 
 Yefei Fan, Spencer Glass, Tariq Haque, Liya Zhang
 
